@@ -29,4 +29,3 @@ class MyFirstGUI:
 root = Tk()
 my_gui = MyFirstGUI(root)
 root.mainloop()
-test test
